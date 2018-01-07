@@ -1,0 +1,156 @@
+
+
+
+Línea de comandos de Window
+
+
+
+	Como utilizar la Consola de Windows (Comandos básicos CMD)
+
+		https://www.youtube.com/watch?v=W6434nulBu8
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Generales:
+__________
+
+
+	_ejecutar comandos:
+
+		_para ejecutar un comando que hayamos escrito debemos hacer "Enter", para que éste se ejecute
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Shortcuts de teclado:
+_____________________
+
+
+	_dos puntos:
+
+		_para ésto el teclado debe de estar en "español", shortcut: "control + shift + 0", y para crear los
+
+		dos puntos "shift + (.) doc"
+
+
+
+	_slash invertidos para navegar entre directorios:
+
+		_shortcut: Alt2 + \ (al lado izquierdo del 1)
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Navegar entre directorios:
+__________________________
+
+
+	_acceder a un directorio dentro de otro:
+	
+		_para ésto, debemos tipear "cd + directorio", así, tipeando "cd", más el nombre del directorio y presionando
+
+		"enter", podremos acceder ha dicho directorio dentro de otro
+
+
+	_subir un nivel entre directorios ó volver a un directorio superior:
+
+		_para ésto, debemos tipear "cd + ../", así, tipeando "cd", más "../"
+
+
+	
+	_subir al directorio raíz, ó root:
+
+		_para ésto, tipeamos "cd + /", así, tipeando "cd", más "/"
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Comandos:
+_________
+
+
+
+	_cd
+
+		_éste comando significa "change directory", y nos permite acceder a directorios
+
+	
+
+	_dir
+
+
+		_éste nos permite ver el contenido dentro de un directorio
+
+
+	_cls
+
+		_éste nos permite limpiar la ventana de búsquedas previas
+
+
+	_del
+
+		_éste comando nos permite eliminar un archivo determinado y significa "delete"
+
+
+	_mkdir
+
+
+		_éste comando nos permite crear un directorio en una ubicación específica y significa "Make Directory"
+
+
+	rmdir
+
+
+		_éste comando nos permite borrar directorios en una ubicación específica y significa "Remove Directory"
+
+
+		_no podemos borrar una carpeta ó directorio que contenga archivos dentro
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Crear archivos:
+_______________
+
+
+
+	_para ésto, primero navegamos hasta la ubicación donde deseamos crear el nuevo directorio
+
+
+	_y a continuación tipeamos "mkdir + nombre de la carpeta generada", luego aplicamos "Enter", así, la carpeta
+
+	ó directorio se generará en la ruta especificada
+
+	
+	_NOTE: el nombre de la carpeta ó directorio ha generar no debe de llevar espació de lo contrario serán 
+
+	interpretadas cada palabra como un directorio
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Borrar archivos:
+________________
+
+
+
+	_primero debemos navergar hasta la ubicación del archivo
+
+
+	_luego debemos tipear "del + nombre del archivo a borrar", posteriormente aplicar "enter"
+
+
+	_también, contamos con el comando "rmdir + nombre del directorio a borrar", luego aplicamos "enter"
+
