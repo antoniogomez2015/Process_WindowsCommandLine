@@ -154,3 +154,29 @@ ________________
 
 	_también, contamos con el comando "rmdir + nombre del directorio a borrar", luego aplicamos "enter"
 
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Configurar programas de arranque del PC:
+________________________________________
+
+	
+	Tutorial:
+
+		Quitar programas del inicio de Windows 7
+
+			https://www.youtube.com/watch?v=RFc4JQ9X0EI
+
+
+
+			Windows + R / mscondig + enter
+
+
+
+
+
+
+
+
+
